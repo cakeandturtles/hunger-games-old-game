@@ -1,0 +1,2 @@
+1. WASD and arrow keys = identical (to eat you have to slow down a bit).
+2. Look at design from before and redo a bit

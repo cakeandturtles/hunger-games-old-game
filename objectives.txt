@@ -1,0 +1,30 @@
+FEATURES TO ADD::
+1. Add bigger to colossus
+2. ADD SPAWNER LOCATIONS/GROTTOS/TREETOPS
+2. Flyers, diggers, hoppers (bonus animals just chillin around for bonus points)
+4. Golden animals are worth triple or double points (full life restore)
+
+
+//6. MAPS
+//7. Achievements???
+//8. make current enemies that you CAN eat flash temporarily
+//9.list of mechanics???
+
+
+----------------------------------------------------------------------------------------------------------------
+POWERUPS::
+-a berserker powerup doubles your speed but lessens your control
+
+
+------------------------------------------------------------------------------
+THE COLOSSUS::
+-the colossus is constantly sleeping in the background and makes up the landscape of the background. every so often he will be awakened and then will chase down and eat everything
+-when this happens, RUN AND HIDE!!!
+
+
+
+
+
+BONUS POINT ACHIEVEMENTS::
+-death from above
+-sneaky ambush

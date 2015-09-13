@@ -1,0 +1,12 @@
+Program hunger games in Flash::
+===============================
+-Your character scales in size with each couple of foods eaten, and then goes through an "evolution" much like in pokemon. 
+	-The larger you are, the slower you walk, until you TRANSFORM up in size
+
+-There always exists a monster(s) bigger than you, up until the colossus size 
+	-These monsters can eat as well, and when they eat more they get fuller and slower (so you can avoid eating your prey as you run away and he'll gobble them up as he chases you and get slower)
+
+-There's a hunger meter that drains as you don't eat food. You can do little dashes but each time you do it expends some of your hunger. If you run out of it you walk really really slowly and don't die but pretty much will
+	-Eating monsters that are relatively smaller restores the energy meter relatively less and vice versa
+
+-Looping world like before but make the loop more seamless (you can see the entire time), also need to make scenery/objects and the like to add more mechanical/visual variety
